@@ -7,7 +7,7 @@
     { "id": "6", "name": "Fidelity Bank Nigeria","code":"070" },
     { "id": "7", "name": "First Bank of Nigeria","code":"011" },
     { "id": "8", "name": "First City Monument Bank","code":"214" },
-    { "id": "9", "name": "Guaranty Trust Bank","code":"058" },
+    { "id": "9", "name": "Guaranty Trust Bank","code":"058", "short_code" : "GTB" },
     { "id": "10", "name": "Heritage Bank Plc","code":"030" },
     { "id": "11", "name": "Jaiz Bank","code":"301" },
     { "id": "12", "name": "Keystone Bank Limited","code":"082" },
@@ -18,7 +18,7 @@
     { "id": "17", "name": "Sterling Bank","code":"232" },
     { "id": "18", "name": "Suntrust Bank Nigeria Limited","code":"100" },
     { "id": "19", "name": "Union Bank of Nigeria","code":"032" },
-    { "id": "20", "name": "United Bank for Africa","code":"033" },
+    { "id": "20", "name": "United Bank for Africa","code":"033", "short_code" : "UBA" },
     { "id": "21", "name": "Unity Bank Plc","code":"215" },
     { "id": "22", "name": "Wema Bank","code":"035" },
     { "id": "23", "name": "Zenith Bank","code":"057" }
